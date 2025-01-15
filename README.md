@@ -1,10 +1,20 @@
+### Roulette-Tool.app
+
+Roulette-Tool.app is an advanced poker training application made with React, Redux Toolkit, MySQL, and AppStack - ReactJS Admin & Dashboard Template. It is a fully responsive, mobile first, and SEO friendly application that is ready to be deployed to production.
+
+To install, first make sure the correct `node` and `npm` are installed in your system.
+
 # AppStack - ReactJS Admin & Dashboard Template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
+Roulette.app is 100% ready to use. Just unzip the included files and run the following commands:
+
 In the project directory, you can run:
+
+`npm install` to install all the required dependencies
 
 ### `npm start`
 
